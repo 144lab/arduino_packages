@@ -156,54 +156,6 @@
           ]
         }
       ]
-    },
-    {
-      "websiteURL": "https://github.com/rkistner/arcore",
-      "tools": [],
-      "name": "arcore",
-      "email": "ralf@journeyapps.com",
-      "help": {
-        "online": "https://forums.adafruit.com"
-      },
-      "maintainer": "Ralf Kistner",
-      "platforms": [
-        {
-          "boards": [
-            {
-              "name": "Arduino Leonardo (MIDI)"
-            },
-            {
-              "name": "Arduino Leonardo (MIDI, iPad compatible)"
-            },
-            {
-              "name": "Arduino Micro (MIDI)"
-            }
-          ],
-          "architecture": "avr",
-          "name": "Leonardo & Micro MIDI-USB (arcore)",
-          "category": "Adafruit",
-          "version": "1.0.0",
-          "archiveFileName": "arcore-1.0.0.tar.bz2",
-          "checksum": "SHA-256:37ec329c16cc5d8f7da810665505107b24d85e6eea7e74d1677615cf7c5bcb01",
-          "help": {
-            "online": "https://forums.adafruit.com"
-          },
-          "url": "https://adafruit.github.io/arduino-board-index/boards/arcore-1.0.0.tar.bz2",
-          "toolsDependencies": [
-            {
-              "name": "avr-gcc",
-              "packager": "arduino",
-              "version": "4.8.1-arduino5"
-            },
-            {
-              "name": "avrdude",
-              "packager": "arduino",
-              "version": "6.0.1-arduino5"
-            }
-          ],
-          "size": "1135927"
-        }
-      ]
     }
   ]
 }
