@@ -106,7 +106,7 @@
           "version": "1.0.0"
         }
       ],
-      "name": "144Lab, Inc.",
+      "name": "144lab",
       "email": "info@144lab.com",
       "help": {
         "online": "https://144lab.com"
@@ -114,10 +114,10 @@
       "maintainer": "144Lab",
       "platforms": [
         {
-          "name": "144Lab nRF52",
+          "name": "144lab nRF52",
           "architecture": "nrf52",
           "version": "0.14.6",
-          "category": "Adafruit",
+          "category": "144Lab",
           "url": "https://144lab.github.io/arduino_packages/boards/144lab-nrf52-0.14.6.tar.bz2",
           "archiveFileName": "144lab-nrf52-0.14.6.tar.bz2",
           "checksum": "SHA-256:c4a30aa280a2dc63eaa3c2f65b14f0cdb9d59d272b06e31312c88dd863893351",
