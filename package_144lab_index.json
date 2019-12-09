@@ -120,8 +120,8 @@
           "category": "144Lab",
           "url": "https://144lab.github.io/arduino_packages/boards/144lab-nrf52-0.14.6.tar.bz2",
           "archiveFileName": "144lab-nrf52-0.14.6.tar.bz2",
-          "checksum": "SHA-256:c4a30aa280a2dc63eaa3c2f65b14f0cdb9d59d272b06e31312c88dd863893351",
-          "size": "17975640",
+          "checksum": "SHA-256:e75578fd6f0a3a8ecc41dafaccd3787e0d764c274f1c0a4bf3d76885b96c6a33",
+          "size": "84698525",
           "help": {
             "online": "https://144lab.com"
           },
