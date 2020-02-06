@@ -116,7 +116,7 @@
         {
           "name": "144lab nRF52",
           "architecture": "nrf52",
-          "version": "0.14.6",
+          "version": "0.14.7",
           "category": "144Lab",
           "url": "https://144lab.github.io/arduino_packages/boards/144lab-nrf52-0.14.7.tar.bz2",
           "archiveFileName": "144lab-nrf52-0.14.7.tar.bz2",
