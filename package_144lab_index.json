@@ -140,6 +140,12 @@
             },
             {
               "name": "Adafruit ItsyBitsy nRF52840"
+            },
+            {
+              "name": "144Lab isp1507spiflash nRF52832"
+            },
+            {
+              "name": "iSP1807 Sensor Board (ssci_hsm_band)"
             }
           ],
           "toolsDependencies": [
